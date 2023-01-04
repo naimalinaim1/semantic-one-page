@@ -1,0 +1,27 @@
+#images {
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+.photo-album {
+    padding: 50px 0;
+    border-radius: 2px;
+    background: #c3daf9;
+}
+.photo-album h2 {
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+.album {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+.album figure {
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 1px;
+}

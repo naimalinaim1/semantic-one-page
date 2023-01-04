@@ -1,0 +1,35 @@
+#table {
+    width: 100%;
+    margin-top: 50px;
+}
+.table-content {
+    background: #c5cad4;
+    padding: 50px 0;
+    border-radius: 2px;
+}
+.table-content h2 {
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+.div-table {
+    padding: 0 50px;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.table td, th {
+    border: 1px solid #f6897f;
+    padding: 12px 0;
+    text-align: center;
+}
+
+
+
+
+
+
+
+

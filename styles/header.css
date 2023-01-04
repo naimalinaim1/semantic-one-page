@@ -1,0 +1,29 @@
+/* Header CSS */
+.header {
+    background: #f6897f;
+}
+.top-header {
+    padding: 12px 0;
+
+}
+.nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.nav ul li a {
+    color: #000;
+    display: block;
+    text-decoration: none;
+    padding: 5px 15px;
+    font-size: 17px;
+}
+.nav ul li a:hover {
+    transition: 0.5s;
+    color: #585353;
+}
